@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="voidapple"
+version="1.0.0"
+displayName="Void Mod"
+credits="Created for Forge 1.20.1"
+authors="Developer"
+description='''Мод, добавляющий Пустотное яблоко и многофункциональный Посох Пустоты.'''
